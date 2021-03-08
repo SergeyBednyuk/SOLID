@@ -1,0 +1,7 @@
+E:\Self-Education\ITVDN\SOLID\InversionOfDependencyPrinciple\bin\Debug\InversionOfDependencyPrinciple.exe.config
+E:\Self-Education\ITVDN\SOLID\InversionOfDependencyPrinciple\bin\Debug\InversionOfDependencyPrinciple.exe
+E:\Self-Education\ITVDN\SOLID\InversionOfDependencyPrinciple\bin\Debug\InversionOfDependencyPrinciple.pdb
+E:\Self-Education\ITVDN\SOLID\InversionOfDependencyPrinciple\obj\Debug\InversionOfDependencyPrinciple.csprojAssemblyReference.cache
+E:\Self-Education\ITVDN\SOLID\InversionOfDependencyPrinciple\obj\Debug\InversionOfDependencyPrinciple.csproj.CoreCompileInputs.cache
+E:\Self-Education\ITVDN\SOLID\InversionOfDependencyPrinciple\obj\Debug\InversionOfDependencyPrinciple.exe
+E:\Self-Education\ITVDN\SOLID\InversionOfDependencyPrinciple\obj\Debug\InversionOfDependencyPrinciple.pdb
