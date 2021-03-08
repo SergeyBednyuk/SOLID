@@ -1,0 +1,7 @@
+E:\Self-Education\ITVDN\SOLID\InterfaceSegregationPrinciple\bin\Debug\InterfaceSegregationPrinciple.exe.config
+E:\Self-Education\ITVDN\SOLID\InterfaceSegregationPrinciple\bin\Debug\InterfaceSegregationPrinciple.exe
+E:\Self-Education\ITVDN\SOLID\InterfaceSegregationPrinciple\bin\Debug\InterfaceSegregationPrinciple.pdb
+E:\Self-Education\ITVDN\SOLID\InterfaceSegregationPrinciple\obj\Debug\InterfaceSegregationPrinciple.csprojAssemblyReference.cache
+E:\Self-Education\ITVDN\SOLID\InterfaceSegregationPrinciple\obj\Debug\InterfaceSegregationPrinciple.csproj.CoreCompileInputs.cache
+E:\Self-Education\ITVDN\SOLID\InterfaceSegregationPrinciple\obj\Debug\InterfaceSegregationPrinciple.exe
+E:\Self-Education\ITVDN\SOLID\InterfaceSegregationPrinciple\obj\Debug\InterfaceSegregationPrinciple.pdb

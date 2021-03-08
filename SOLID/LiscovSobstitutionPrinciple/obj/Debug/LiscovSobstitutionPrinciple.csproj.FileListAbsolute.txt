@@ -1,0 +1,7 @@
+E:\Self-Education\ITVDN\SOLID\LiscovSobstitutionPrinciple\bin\Debug\LiscovSobstitutionPrinciple.exe.config
+E:\Self-Education\ITVDN\SOLID\LiscovSobstitutionPrinciple\bin\Debug\LiscovSobstitutionPrinciple.exe
+E:\Self-Education\ITVDN\SOLID\LiscovSobstitutionPrinciple\bin\Debug\LiscovSobstitutionPrinciple.pdb
+E:\Self-Education\ITVDN\SOLID\LiscovSobstitutionPrinciple\obj\Debug\LiscovSobstitutionPrinciple.csprojAssemblyReference.cache
+E:\Self-Education\ITVDN\SOLID\LiscovSobstitutionPrinciple\obj\Debug\LiscovSobstitutionPrinciple.csproj.CoreCompileInputs.cache
+E:\Self-Education\ITVDN\SOLID\LiscovSobstitutionPrinciple\obj\Debug\LiscovSobstitutionPrinciple.exe
+E:\Self-Education\ITVDN\SOLID\LiscovSobstitutionPrinciple\obj\Debug\LiscovSobstitutionPrinciple.pdb
