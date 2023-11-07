@@ -1,0 +1,14 @@
+D:\Education\SOLID\SingleResponsibilityPrinciple\bin\Debug\net7.0\SingleResponsibilityPrinciple.exe
+D:\Education\SOLID\SingleResponsibilityPrinciple\bin\Debug\net7.0\SingleResponsibilityPrinciple.deps.json
+D:\Education\SOLID\SingleResponsibilityPrinciple\bin\Debug\net7.0\SingleResponsibilityPrinciple.runtimeconfig.json
+D:\Education\SOLID\SingleResponsibilityPrinciple\bin\Debug\net7.0\SingleResponsibilityPrinciple.dll
+D:\Education\SOLID\SingleResponsibilityPrinciple\bin\Debug\net7.0\SingleResponsibilityPrinciple.pdb
+D:\Education\SOLID\SingleResponsibilityPrinciple\obj\Debug\net7.0\SingleResponsibilityPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+D:\Education\SOLID\SingleResponsibilityPrinciple\obj\Debug\net7.0\SingleResponsibilityPrinciple.AssemblyInfoInputs.cache
+D:\Education\SOLID\SingleResponsibilityPrinciple\obj\Debug\net7.0\SingleResponsibilityPrinciple.AssemblyInfo.cs
+D:\Education\SOLID\SingleResponsibilityPrinciple\obj\Debug\net7.0\SingleResponsibilityPrinciple.csproj.CoreCompileInputs.cache
+D:\Education\SOLID\SingleResponsibilityPrinciple\obj\Debug\net7.0\SingleResponsibilityPrinciple.dll
+D:\Education\SOLID\SingleResponsibilityPrinciple\obj\Debug\net7.0\refint\SingleResponsibilityPrinciple.dll
+D:\Education\SOLID\SingleResponsibilityPrinciple\obj\Debug\net7.0\SingleResponsibilityPrinciple.pdb
+D:\Education\SOLID\SingleResponsibilityPrinciple\obj\Debug\net7.0\SingleResponsibilityPrinciple.genruntimeconfig.cache
+D:\Education\SOLID\SingleResponsibilityPrinciple\obj\Debug\net7.0\ref\SingleResponsibilityPrinciple.dll
