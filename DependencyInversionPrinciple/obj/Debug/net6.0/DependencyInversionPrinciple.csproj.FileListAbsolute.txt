@@ -1,0 +1,15 @@
+D:\Education\SOLID\DependencyInversionPrinciple\bin\Debug\net6.0\DependencyInversionPrinciple.exe
+D:\Education\SOLID\DependencyInversionPrinciple\bin\Debug\net6.0\DependencyInversionPrinciple.deps.json
+D:\Education\SOLID\DependencyInversionPrinciple\bin\Debug\net6.0\DependencyInversionPrinciple.runtimeconfig.json
+D:\Education\SOLID\DependencyInversionPrinciple\bin\Debug\net6.0\DependencyInversionPrinciple.dll
+D:\Education\SOLID\DependencyInversionPrinciple\bin\Debug\net6.0\DependencyInversionPrinciple.pdb
+D:\Education\SOLID\DependencyInversionPrinciple\obj\Debug\net6.0\DependencyInversionPrinciple.csproj.AssemblyReference.cache
+D:\Education\SOLID\DependencyInversionPrinciple\obj\Debug\net6.0\DependencyInversionPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+D:\Education\SOLID\DependencyInversionPrinciple\obj\Debug\net6.0\DependencyInversionPrinciple.AssemblyInfoInputs.cache
+D:\Education\SOLID\DependencyInversionPrinciple\obj\Debug\net6.0\DependencyInversionPrinciple.AssemblyInfo.cs
+D:\Education\SOLID\DependencyInversionPrinciple\obj\Debug\net6.0\DependencyInversionPrinciple.csproj.CoreCompileInputs.cache
+D:\Education\SOLID\DependencyInversionPrinciple\obj\Debug\net6.0\DependencyInversionPrinciple.dll
+D:\Education\SOLID\DependencyInversionPrinciple\obj\Debug\net6.0\refint\DependencyInversionPrinciple.dll
+D:\Education\SOLID\DependencyInversionPrinciple\obj\Debug\net6.0\DependencyInversionPrinciple.pdb
+D:\Education\SOLID\DependencyInversionPrinciple\obj\Debug\net6.0\DependencyInversionPrinciple.genruntimeconfig.cache
+D:\Education\SOLID\DependencyInversionPrinciple\obj\Debug\net6.0\ref\DependencyInversionPrinciple.dll
